@@ -5,6 +5,6 @@ public class anotheError {
 
     @Test
     void anotheError() {
-        Assertions.assertTrue(3>=1);
+        Assertions.assertTrue(6>=1);
     }
 }
